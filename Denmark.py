@@ -1,0 +1,6 @@
+print("Something is rotten in the state of Denmark")
+print("             --Shakespeare                 ")
+print("                 |  |                      ")
+print("                 0  0                    ")
+print("                 (  )                     ")
+print("                  ||                        ")
