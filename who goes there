@@ -1,0 +1,3 @@
+#Imput and output varibles
+print("Halt")
+user_imput= imput("Who goes there?")
